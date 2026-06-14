@@ -1,0 +1,10 @@
+title       = "smashingmag"
+baseURL     = "https://smashingmag-cli-cli.tamnd.com/"
+description = "Browse Smashing Magazine web design articles"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/smashingmag-cli-cli"
