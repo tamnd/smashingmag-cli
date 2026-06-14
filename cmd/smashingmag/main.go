@@ -8,7 +8,7 @@ import (
 	"syscall"
 
 	"github.com/charmbracelet/fang"
-	"github.com/tamnd/smashingmag-cli-cli/cli"
+	"github.com/tamnd/smashingmag-cli/cli"
 )
 
 func main() {
